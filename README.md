@@ -1,4 +1,4 @@
-!(https://github.com/aaronw4/aaronw4/blob/main/(output001)Githubc.gif)
+![](https://github.com/aaronw4/aaronw4/blob/main/(output001)Githubc.gif)
 
 <!--
 **aaronw4/aaronw4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
